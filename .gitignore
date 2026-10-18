@@ -1,0 +1,9 @@
+# Telemetry written by the strategy (default: Documents\NinjaTrader 8\CandleCloseConfirm)
+*.csv
+
+# Editors / build output
+.vs/
+.vscode/
+*.user
+bin/
+obj/
